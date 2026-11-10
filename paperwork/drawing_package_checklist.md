@@ -18,7 +18,7 @@ gear is built and tested to
 ## Consistency checks
 
 * \[x]Revision letter in every title block matches the revision log
-* \[x] Every ECO behind the current revisions is approved and filed
+* \[ ] Every ECO behind the current revisions is approved and filed
 * \[ ] Ratings on the drawings (bus, breakers, transformer) match the
 bill of materials line by line
 * \[ ] Device numbers on the schematics match the one-line diagram

@@ -66,3 +66,11 @@ No code environment is required for the main work.
 - `scripts/` - the generator that produced the starter drawing.
 - `TASKS.md` - the four pieces of work that are yours, each with a
   checklist and a statement of what done looks like.
+
+## Project Status: Completed
+
+D-201: Updated to Rev B with all four mechanical load study redlines incorporated (2000 A main breaker, PT branch added, chiller plant load renamed).
+
+D-202: Initial release at Rev A (Lineup front elevation).
+
+Document Control: ECO-0002 authored and master revision log updated to reflect the Rev B/Rev A release package.

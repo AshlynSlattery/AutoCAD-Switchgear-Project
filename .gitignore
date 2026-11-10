@@ -2,3 +2,5 @@ _READ_ME_ASHLYN.md
 __pycache__/
 *.pyc
 .venv/
+*.dwl
+*.dwl2
